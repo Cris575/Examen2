@@ -22,6 +22,8 @@
     <string name="Tengo_una_cuenta">Tengo una Cuenta</string>
     <string name="registrarUsuario">Registrar</string>
     <string name="nombreEt">Usuario</string>
+    <string name="app_name">Examen</string>
+
 
 
 </resources>
